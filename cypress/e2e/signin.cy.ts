@@ -1,7 +1,7 @@
 describe("Sign In Page", () => {
   beforeEach(() => {
-    cy.task("resetDatabase");
-    cy.task("seedDatabase");
+    // cy.task("resetDatabase");
+    // cy.task("seedDatabase");
     cy.visit("/admin/auth/signin");
   });
 
