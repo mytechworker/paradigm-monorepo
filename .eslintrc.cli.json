@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json.schemastore.org/eslintrc",
+    "extends": [".eslintrc.json"],
+    "overrides": [
+      {
+        "files": ["**/*.ts", "**/*.tsx"],
+        "excludedFiles": ["client/**/*", "backend/**/*", "test/**/*", "**/*.d.ts"],
+        "parserOptions": {
+          "project": true
+        },
+        "rules": {
+          "@typescript-eslint/no-floating-promises": "off"
+        }
+      }
+    ]
+  }

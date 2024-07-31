@@ -1,0 +1,17 @@
+# Build artifacts
+.next/
+.turbo/
+_next/
+__tmp__/
+dist/
+target/
+compiled/
+
+lerna.json
+test-timings.json
+pnpm-lock.yaml
+
+packages/next/src/bundles/webpack/packages/*.runtime.js
+packages/next/src/bundles/webpack/packages/lazy-compilation-*.js
+
+.github/actions/next-stats-action/.work

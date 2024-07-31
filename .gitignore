@@ -1,0 +1,18 @@
+# build & caches
+dist
+.next
+
+# packages
+node_modules
+pnpm-lock.*
+yarn.lock
+package-lock.*
+
+# upload assets
+uploads
+
+# environment variables
+*.env
+.env.production
+.env.local
+.env.test

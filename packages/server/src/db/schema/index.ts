@@ -1,0 +1,16 @@
+export { default as UserModel } from './users.schema';
+export { default as UserNotification } from './userNotification.schema';
+export { default as CompanyModel } from './companies.schema';
+export { default as AboutUsModel } from './aboutUs.schema';
+export { default as ArticlesModel } from './articles.schema';
+export { default as BookmarksModel } from './bookmarks.schema';
+export { default as CategoriesModel } from './categories.schema';
+export { default as CollectionsModel } from './collections.schema';
+export { default as CommentsModel } from './comments.schema';
+export { default as FollowingModel } from './following.schema';
+export { default as FollowingCategoryModel } from './followingCategory.schema';
+export { default as NotificationsModel } from './notifications.schema';
+export { default as PrivacyModel } from './privacy.schema';
+export { default as ResetKeyModel } from './resetKey.schema';
+export { default as SliderModel } from './sliders.schema';
+export { default as TermModel } from './terms.schema';

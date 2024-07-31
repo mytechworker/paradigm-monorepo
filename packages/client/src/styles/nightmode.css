@@ -1,0 +1,420 @@
+body.night-mode {
+    background-color: #2d3141;
+}
+.night-mode .serach-input input {
+    background-color: #43485c;
+}
+.night-mode .serach-logo svg {
+    fill: #fff;
+}
+.night-mode .serach-social a {
+    background: #43485c;
+}
+
+.night-mode input.react_autosuggest__input::placeholder,
+.night-mode .serach-input input {
+    color: #ffffff;
+}
+
+.night-mode .about-h1 {
+    color: #fff;
+}
+
+.night-mode .privacy-h1 {
+    color: #fff;
+}
+
+.night-mode .terms-h1 {
+    color: #fff;
+}
+
+.night-mode .stories-h1 {
+    color: #fff;
+}
+
+.night-mode .about-p {
+    color: #fff;
+}
+
+.night-mode .privacy-p {
+    color: #fff;
+}
+
+.night-mode .terms-p {
+    color: #fff;
+}
+
+.night-mode .tags-title-h1 {
+    color: #fff;
+}
+
+.night-mode .stories-p {
+    color: #fff;
+}
+
+.night-mode .social-icons a {
+    background-color: #43485c;
+}
+
+.night-mode .social-icons a svg g {
+    fill: #fff;
+}
+
+.night-mode .artical-date p {
+    color: #fff;
+}
+
+.night-mode .artical-shortdes h2 {
+    color: #fff;
+}
+
+.night-mode .ant-dropdown-menu {
+    background-color: #43485c;
+    box-shadow: 0 2px 8px rgb(255 255 255 / 15%);
+    -webkit-transform: translateZ(0);
+}
+.night-mode .ant-dropdown-menu-item > a,
+.night-mode .ant-dropdown-menu-submenu-title > a {
+    display: block;
+    margin: -5px -12px;
+    padding: 5px 12px;
+    color: rgb(255 255 255 / 65%);
+}
+.night-mode .search-suggestion-icon svg path {
+    fill: #fff;
+}
+.night-mode .search-suggestion-icon .sub-profile circle {
+    stroke: #fff;
+}
+.night-mode .search-suggestion-icon .sub-profile path {
+    stroke: #fff;
+    fill: unset;
+}
+.night-mode .artical-head-main {
+    background: #2d3141;
+    /* -webkit-box-shadow: 0 1px 0px #dddddd;
+    -moz-box-shadow: 0 1px 0px #dddddd;
+    box-shadow: 0 15px 8px -15px #ddd; */
+}
+.night-mode .artical-head.active {
+    background: #2d3141;
+    -webkit-box-shadow: 0 1px 0px #dddddd;
+    -moz-box-shadow: 0 1px 0px #dddddd;
+    box-shadow: 0 15px 8px -15px #ddd;
+}
+/* .night-mode .three-dot-menu {
+    background: rgb(95, 95, 95);
+  } */
+.night-mode .artical-head h2 {
+    color: #fff;
+}
+.night-mode .artical-head-main h2 {
+    color: #fff;
+}
+.night-mode .artical-slider .slick-next {
+    right: 15px;
+    box-shadow: 0 5px 20px rgba(255, 255, 255, 0.16);
+}
+
+.night-mode .ant-dropdown-menu-item,
+.night-mode .ant-dropdown-menu-submenu-title {
+    color: rgb(255 255 255 / 90%);
+}
+.night-mode .serach-social a svg.cat-icon path {
+    fill: #fff;
+}
+.night-mode .ant-dropdown-menu-item svg {
+    stroke: #fff;
+}
+.night-mode .ant-dropdown-menu-item svg.remove path {
+    fill: unset;
+}
+.night-mode .ant-dropdown-menu-item svg path,
+.night-mode .ant-dropdown-menu-submenu svg path {
+    stroke: #fff;
+    fill: #fff;
+}
+.night-mode .ant-dropdown-menu-item:hover,
+.night-mode .ant-dropdown-menu-submenu-title:hover {
+    background-color: #202122;
+}
+.night-mode .artical-head button {
+    color: #ffffff;
+}
+.night-mode .artical-head-main button {
+    color: #ffffff;
+}
+
+.night-mode .artical-slider .slick-prev:before,
+.artical-slider .slick-next:before {
+    color: #fff !important;
+}
+
+.night-mode .artical-slider .slick-next:before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border: 2px solid #fff;
+    border-right: 0;
+    border-bottom: 0;
+    display: block;
+}
+
+.night-mode .artical-slider .slick-prev:before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border: 2px solid #fff;
+    border-right: 0;
+    border-bottom: 0;
+    display: block;
+}
+
+.night-mode .boxshadow-sec {
+    box-shadow: unset;
+    border: 1px solid #ffffff1a;
+}
+.night-mode .sub-text-box h5 {
+    color: #fff;
+}
+.night-mode .sub-text-box p {
+    color: rgb(255 255 255 / 85%);
+}
+.night-mode .detail-sub-box h4 {
+    color: #12d70c;
+}
+.night-mode .detail-sub-box p {
+    color: rgb(255 255 255 / 74%);
+}
+.night-mode .footer-menu {
+    border-top: 1px solid rgb(255 255 255 / 30%);
+}
+.night-mode .boxshadow-sec {
+    border: 1px solid rgb(255 255 255 / 30%);
+}
+.night-mode .footer-menu a {
+    color: rgb(255 255 255 / 65%);
+}
+.night-mode .profile-img {
+    border: 15px solid #000;
+}
+.night-mode .anticon svg {
+    stroke: #fff;
+    fill: #fff;
+}
+.night-mode .ant-modal-header {
+    background-color: #2d3141;
+}
+.night-mode .ant-modal-title {
+    color: #fff;
+}
+.night-mode .artical-head h2 span.img-call svg path {
+    fill: #fff;
+    stroke: #fff;
+}
+.night-mode .artical-head-main h2 span.img-call svg path {
+    fill: #fff;
+    stroke: #fff;
+}
+.night-mode .ant-dropdown-menu-item,
+.night-mode .ant-dropdown-menu-submenu-title {
+    color: rgb(255 255 255 / 85%);
+}
+.night-mode .ant-dropdown-menu-item:hover,
+.night-mode .ant-dropdown-menu-submenu-title:hover {
+    background-color: #161616;
+}
+
+.night-mode .hero-description,
+.night-mode .hero-description h2,
+.night-mode .hero-description h3,
+.night-mode .hero-description h1,
+.night-mode .hero-description p {
+    color: #fff !important;
+}
+
+.night-mode .serach-social a svg,
+.night-mode .serach-social a svg path {
+    stroke: #fff;
+}
+.night-mode .serach-social a svg circle {
+    stroke: #fff;
+}
+.night-mode li.ant-dropdown-menu-submenu svg path {
+    stroke: #fff;
+}
+.night-mode .ant-dropdown-menu-item svg.sub-profile path,
+.night-mode .ant-dropdown-menu-item svg.sub-profile circle {
+    fill: unset;
+    stroke: #fff;
+}
+
+.night-mode .ant-modal-content {
+    background-color: #2d3141;
+    box-shadow: 0 4px 12px rgb(255 255 255 / 15%);
+}
+.night-mode .ant-modal-footer {
+    border: unset;
+}
+.night-mode .sign_modal .head {
+    color: #fff;
+}
+.night-mode .text-log p {
+    color: #fff;
+}
+.night-mode .modal-submit-btn button {
+    background-color: #fff;
+    color: #000;
+}
+.night-mode .ant-modal-body {
+    background-color: #2d3141 !important;
+}
+.night-mode .ant-modal-close-x {
+    color: #fff;
+}
+.night-mode .ant-modal-body .ant-form-item-control-wrapper .ant-input {
+    background-color: #a5afd92e;
+    color: #fff;
+}
+.night-mode .ant-message .ant-message-notice-content {
+    background-color: #000;
+    color: #fff;
+}
+.night-mode .serach-sec {
+    padding-top: 30px;
+}
+.night-mode .mian-slider {
+    padding-bottom: 0;
+}
+.night-mode .react_autosuggest__suggestions_list {
+    background-color: #43485c;
+    color: #fff;
+}
+.night-mode .profile-text h1,
+.night-mode .profile-text p,
+.night-mode .profile-text p span {
+    width: 100%;
+    color: #fff;
+}
+.night-mode .content-center {
+    color: #fff;
+}
+.night-mode .content-center h1 {
+    color: #ddd;
+}
+.night-mode .react_autosuggest__input__open {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-radius: 20px 20px 0 0;
+}
+.night-mode .cat-card-head span {
+    color: #747474;
+}
+.night-mode .profile-cam-icon {
+    color: #fff;
+}
+
+.night-mode .followings-company-icon svg g {
+    fill: #fff;
+}
+
+.night-mode .three-dot-menu svg {
+    color: #fff;
+}
+
+.night-mode .hr-text {
+    &:after {
+        content: attr(data-content);
+        position: relative;
+        display: inline-block;
+        color: black;
+
+        padding: 0 0.5em;
+        line-height: 1.5em;
+        color: #fff;
+        background-color: #2d3141 !important;
+    }
+}
+
+.night-mode .oauth-btn-heading > h2 {
+    color: #fff;
+}
+
+.night-mode .text-callback {
+    color: rgb(206, 206, 206);
+}
+
+@media (max-width: 576px) {
+    .night-mode .artical-slider .slick-next {
+        right: -15px !important;
+    }
+}
+
+.night-mode .follow_text {
+    color: rgb(255 255 255 / 85%);
+}
+
+.night-mode .total_followers {
+    color: #fff;
+}
+
+.night-mode .follow_company_name h2 b {
+    color: #fff;
+}
+
+.night-mode .admin_follow_name {
+    color: #fff;
+}
+
+.night-mode .icon_wrap a {
+    color: #fff;
+}
+
+.night-mode .icon_wrap a:hover {
+    color: rgb(206, 206, 206);
+}
+
+.night-mode .ant-empty-description {
+    color: #fff !important;
+}
+
+.night-mode .commentIcon,
+.night-mode .commentCounts {
+    color: #fff;
+}
+
+.night-mode .previousTab-icon > button > svg,
+.night-mode .nextTab-icon > button > svg {
+    color: #fff;
+}
+
+.night-mode .ant-drawer-wrapper-body {
+    background-color: #43485c;
+}
+
+.night-mode .ant-drawer-header {
+    background: unset;
+}
+
+.night-mode .ant-drawer-title {
+    color: #fff;
+}
+
+.night-mode
+    .ant-list-item-meta-content
+    > .ant-list-item-meta-title
+    .ant-typography {
+    color: #fff;
+}
+
+.night-mode .ant-list-item-meta-description {
+    color: rgb(255 255 255 / 50%);
+}
+
+.night-mode .comment-info {
+    color: #fff;
+}
+
+.night-mode .form-box > div > #img ~ span {
+    color: #fff;
+}
